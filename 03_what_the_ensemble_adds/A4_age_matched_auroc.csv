@@ -1,0 +1,7 @@
+model,"AUROC, age-matched (95% CI)","AUROC, all patients"
+Age,0.533 (0.516 to 0.549),0.889
+Features,0.878 (0.835 to 0.916),0.883
+Ensemble (raw),0.900 (0.862 to 0.930),0.926
+Features + age,0.793 (0.753 to 0.835),0.94
+Ensemble + age,0.835 (0.794 to 0.877),0.955
+Hybrid,0.868 (0.829 to 0.909),0.961

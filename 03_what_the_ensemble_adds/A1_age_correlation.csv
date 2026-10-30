@@ -1,0 +1,5 @@
+population,"rho, ensemble logit","rho, features score"
+all patients,-0.306 (-0.349 to -0.266),-0.284 (-0.327 to -0.238)
+IDH-wildtype only,-0.088 (-0.142 to -0.034),-0.090 (-0.144 to -0.039)
+IDH-mutant only,-0.179 (-0.323 to -0.039),-0.231 (-0.362 to -0.089)
+within site x IDH class (pooled),-0.094 (-0.145 to -0.044),-0.116 (-0.167 to -0.067)

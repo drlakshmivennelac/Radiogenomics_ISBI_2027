@@ -1,0 +1,5 @@
+strategy,AURC,AUROC for flagging hybrid errors
+random deferral (expected),0.0854,
+low hybrid confidence,0.0355,0.845
+component conflict,0.0469,0.77
+combined (mean rank),0.039,0.819

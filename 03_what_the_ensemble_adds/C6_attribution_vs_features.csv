@@ -1,0 +1,5 @@
+attribution metric,handcrafted feature,n,Spearman rho,p,question
+FLAIR_enrich_nonenh_lesion,mismatch_index,128,0.003,0.9730,network uses non-enhancing FLAIR where T2-FLAIR mismatch is strong?
+FLAIR_share_nonenh_lesion,enhancing_frac_whole,128,-0.033,0.7111,less non-enhancing attention when the tumour enhances?
+T1c_share_enhancing,enhancing_frac_whole,128,0.885,0.0000,T1c attention follows enhancement?
+outside_lesion_share,log_vol_whole,128,-0.398,0.0000,small lesions push attribution outside?

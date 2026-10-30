@@ -1,0 +1,12 @@
+target,v2_reference_seed42,v2_reference_seed44,v2_mean_concat_seed42,untrained control,trained members (mean),gain over untrained
+log_vol_whole,0.071,-0.076,0.118,0.392,0.038,-0.354
+log_vol_enhancing,0.391,0.338,0.308,0.382,0.346,-0.036
+enhancing_frac_whole,0.291,0.277,0.241,0.215,0.27,0.055
+no_enhancement,0.291,0.31,0.291,0.121,0.297,0.176
+necrosis_frac,-0.051,-0.042,-0.024,-0.02,-0.039,-0.019
+edema_ratio_log,0.193,0.214,0.142,0.106,0.183,0.077
+mismatch_index,0.009,-0.012,0.01,0.012,0.003,-0.01
+mismatch_frac,0.003,-0.009,-0.01,-0.006,-0.005,0.001
+age,0.162,0.144,0.15,0.07,0.152,0.082
+IDH (AUROC),0.901,0.881,0.89,0.795,0.891,0.096
+site (balanced accuracy),0.476,0.491,0.49,0.624,0.486,-0.138

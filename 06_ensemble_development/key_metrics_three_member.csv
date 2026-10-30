@@ -1,0 +1,8 @@
+cohort,setting,n,mutant,auroc,auroc_ci_low,auroc_ci_high,average_precision,sensitivity,specificity,ppv,npv,brier,threshold,source
+Pooled (UCSF+UTSW+UPENN),internal 5-fold OOF,1432,195,0.9239,0.9019,0.9436,0.7644,0.8308,0.8755,0.5127,0.9704,0.0592,0.14600733667612076,01_internal_OOF_selected_three/results.json
+UCSF,internal 5-fold OOF (site subset),434,68,0.9468,0.9145,0.9728,0.8381,0.9118,0.8361,0.5082,0.9808,0.0571,0.14600733667612076,01_internal_OOF_selected_three/results.json
+UTSW,internal 5-fold OOF (site subset),546,116,0.909,0.8801,0.9367,0.7848,0.8017,0.8512,0.5924,0.9409,0.0904,0.14600733667612076,01_internal_OOF_selected_three/results.json
+UPENN,internal 5-fold OOF (site subset),452,11,0.818,0.6551,0.946,0.2668,0.6364,0.932,0.1892,0.9904,0.0236,0.14600733667612076,01_internal_OOF_selected_three/results.json
+"MU-Glioma-Post, earliest scan per patient","external, post-treatment, locked model",189,28,0.6023,0.4779,0.7203,0.2471,0.5,0.6894,0.2188,0.888,0.1505,0.14600733667612076,02_external_MU_Glioma_Post_three_member/mu_three_member_results.json
+"MU-Glioma-Post, all labelled scans","external, post-treatment, locked model",558,99,0.7022,0.5889,0.7982,0.402,0.596,0.7473,0.3371,0.8956,0.1397,0.14600733667612076,02_external_MU_Glioma_Post_three_member/mu_three_member_results.json
+"RHUH-GBM, treatment-naive","external, pre-operative, locked model",38,4,0.5441,0.3235,0.7647,0.1346,0.0,0.9706,0.0,0.8919,0.0983,0.14600733667612076,03_external_RHUH_GBM_three_member/results.json

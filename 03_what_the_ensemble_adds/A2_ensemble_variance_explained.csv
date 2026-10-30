@@ -1,0 +1,6 @@
+predictors,all,wildtype only,mutant only
+age,0.191,0.003,0.012
+site,0.055,0.015,0.06
+handcrafted features,0.457,0.22,0.24
+age + features,0.491,0.222,0.224
+age + features + site,0.51,0.25,0.241

@@ -1,0 +1,5 @@
+test,group 1 median (IQR),group 2 median (IQR),P(group 1 > group 2),p,hypothesis,Holm p
+"C1 FLAIR enrichment, non-enhancing lesion: mutant vs wildtype","0.285 (0.160-1.532), n=62","0.536 (0.190-1.586), n=66",0.455,0.3842,mutant higher,1.0000
+"C2 T1c signed density, enhancing tumour: mutant vs wildtype","-3.945 (-7.452--1.696), n=40","-6.857 (-11.878--3.620), n=58",0.619,0.0472,mutant higher,0.1890
+C3 attribution outside the lesion: errors vs correct,"0.922 (0.870-0.948), n=65","0.922 (0.867-0.956), n=66",0.499,0.9835,errors higher,1.0000
+"C4 FLAIR enrichment, non-enhancing lesion: FN vs TP","0.322 (0.193-1.400), n=32","0.227 (0.138-2.282), n=30",0.522,0.7728,FN lower,1.0000

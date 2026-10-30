@@ -1,0 +1,11 @@
+strategy,deferral,deferred,hybrid errors captured,mutants deferred,retained accuracy,retained sensitivity,retained specificity,retained PPV
+no deferral,0%,0,0/119,0,0.915,0.866,0.922,0.631
+low hybrid confidence,10%,139,51/119 (43%),21,0.946,0.915,0.95,0.737
+component conflict,10%,139,33/119 (28%),22,0.931,0.866,0.941,0.689
+combined (mean rank),10%,139,45/119 (38%),14,0.941,0.878,0.951,0.74
+low hybrid confidence,20%,279,82/119 (69%),43,0.967,0.944,0.97,0.823
+component conflict,20%,279,67/119 (56%),37,0.953,0.913,0.96,0.777
+combined (mean rank),20%,279,74/119 (62%),44,0.96,0.944,0.962,0.784
+low hybrid confidence,30%,418,93/119 (78%),54,0.973,0.962,0.975,0.858
+component conflict,30%,418,83/119 (70%),59,0.963,0.945,0.966,0.805
+combined (mean rank),30%,418,93/119 (78%),54,0.973,0.955,0.976,0.863

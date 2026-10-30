@@ -1,0 +1,28 @@
+{
+  "cohort_sha256": "9365a972d1f4d90262d82d3fef51bd5e06ddf6043a6a24a4d10ce2119caefa2c",
+  "threshold": 0.14600733667612076,
+  "sampling": {
+    "seed": 20260927,
+    "requested_fraction": 0.1,
+    "eligible": 1432,
+    "unknown_excluded": 3,
+    "available": {
+      "TN": 1083,
+      "TP": 162,
+      "FN": 33,
+      "FP": 154
+    },
+    "desired_per_group": 36,
+    "selected_per_group": 33,
+    "selected_total": 132,
+    "actual_fraction": 0.09217877094972067,
+    "site_counts": {
+      "UCSF": 46,
+      "UTSW": 64,
+      "UPENN": 22
+    },
+    "policy": "Uniform random sampling without replacement within each outcome group; equal groups capped by the smallest available group. No selection using map appearance.",
+    "limitation": "Outcome-enriched review sample, not representative of disease prevalence, accuracy or attribution frequencies in the full cohort."
+  },
+  "note": "Patient IDs of the 132 sampled cases removed from this copy so the package cannot unblind the reader audit. The full record stays with the study coordinator."
+}
