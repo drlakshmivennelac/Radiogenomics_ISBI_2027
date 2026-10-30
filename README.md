@@ -13,7 +13,6 @@
 | Folder | Contents |
 |---|---|
 | `manuscript/RadGenome_ISBI_v13.pdf` | The final manuscript. |
-| `manuscript/latex/` | LaTeX source for the manuscript: `main.tex`, `refs.bib`, the ISBI style files, and `figures/`. Compile with `latexmk -pdf main` from this folder. |
 | `results/` | Result tables, figures, reports and frozen-model outputs, in folders `01` to `15`. |
 | `code/` | Analysis scripts. `build_*.py` generate the notebooks; `27oct/` and `29oct/` hold later analyses. |
 | `notebooks/` | Analysis notebooks, numbered 1 to 8 in the order of the paper. |
