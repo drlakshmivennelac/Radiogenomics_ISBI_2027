@@ -1,0 +1,5 @@
+held-out site,feature standardisation,Features + age AUROC,ci
+UCSF,own-site z (as published),0.952,0.925-0.974
+UCSF,training-site statistics only,0.948,0.920-0.972
+UTSW,own-site z (as published),0.918,0.889-0.943
+UTSW,training-site statistics only,0.91,0.881-0.937

@@ -1,0 +1,9 @@
+operating point,model,false positives,specificity
+threshold_youden,Age,44,0.877
+threshold_youden,Features + age,44,0.877
+threshold_youden,Ensemble (raw),33,0.908
+threshold_youden,Hybrid,17,0.953
+threshold_sens90,Age,140,0.61
+threshold_sens90,Features + age,77,0.786
+threshold_sens90,Ensemble (raw),72,0.799
+threshold_sens90,Hybrid,40,0.889

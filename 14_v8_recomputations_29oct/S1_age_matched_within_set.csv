@@ -1,0 +1,9 @@
+model,within-set AUROC,ci,pooled AUROC in matched sample (v7)
+Age,0.412,0.339-0.488,0.533
+Features,0.878,0.824-0.926,0.878
+Features + age,0.859,0.801-0.911,0.793
+Ensemble (raw),0.908,0.867-0.947,0.9
+Ensemble + age,0.908,0.868-0.947,0.835
+Ensemble + features,0.924,0.879-0.962,0.917
+Hybrid,0.924,0.878-0.965,0.868
+Confidence gate (D1),0.912,0.863-0.956,0.884

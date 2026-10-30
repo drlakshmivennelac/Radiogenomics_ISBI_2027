@@ -1,0 +1,8 @@
+model,threshold,development_grade4_wildtype,reserved_grade4_wildtype,ds007045
+Age,0.18522174683150577,"0.894 (n=1146, OOF probabilities)",0.812 (n=96),0.877 (n=359)
+Features,0.16112669724675444,"0.918 (n=1146, OOF probabilities)",0.906 (n=96),0.855 (n=359)
+Features + age,0.13444768134427842,"0.909 (n=1146, OOF probabilities)",0.865 (n=96),0.877 (n=359)
+Ensemble (raw),0.1324566944191853,"0.884 (n=1146, OOF probabilities)",0.875 (n=96),0.908 (n=359)
+Ensemble + age,0.10801387188985472,"0.909 (n=1146, OOF probabilities)",0.823 (n=96),0.908 (n=359)
+Ensemble + features,0.11628118187044674,"0.908 (n=1146, OOF probabilities)",0.875 (n=96),0.936 (n=359)
+Hybrid,0.15114339600768467,"0.940 (n=1146, OOF probabilities)",0.885 (n=96),0.953 (n=359)

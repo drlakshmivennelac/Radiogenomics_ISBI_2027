@@ -1,0 +1,5 @@
+subgroup,n,mutant,Features + age,Ensemble (raw),Ensemble + age,Hybrid,Ensemble minus Features + age
+age <40,148,97,0.868,0.923,0.92,0.933,+0.055 (-0.005 to +0.118)
+grade 2-3,205,147,0.789,0.814,0.862,0.861,+0.025 (-0.047 to +0.090)
+grade 4,1185,39,0.931,0.878,0.95,0.954,-0.053 (-0.108 to -0.004)
+non-enhancing,190,111,0.909,0.879,0.94,0.953,-0.030 (-0.093 to +0.029)

@@ -1,0 +1,6 @@
+comparison,delta,ci
+Hybrid minus Features + age,0.012892828364222342,-0.002 to +0.031
+Hybrid minus Ensemble + age,0.003424657534246478,-0.010 to +0.017
+Hybrid minus Ensemble (recalibrated),0.04818694601128115,+0.023 to +0.076
+Features + age minus Ensemble (recalibrated),0.03529411764705881,+0.002 to +0.071
+Ensemble + features minus Features + age,-0.017163577759870985,-0.045 to +0.010

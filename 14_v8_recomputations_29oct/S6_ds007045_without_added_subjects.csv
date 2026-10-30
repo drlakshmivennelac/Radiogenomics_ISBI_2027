@@ -1,0 +1,19 @@
+operating point,model,subset,n,false positives,specificity %,ci
+threshold_youden,Features + age,all 359,359,44,87.7,83.9-91.0
+threshold_youden,Features + age,original descriptor cohort only,327,41,87.5,83.4-90.9
+threshold_youden,Features + age,added in v2.0.0 only,32,3,90.6,75.0-98.0
+threshold_youden,Ensemble (raw),all 359,359,33,90.8,87.3-93.6
+threshold_youden,Ensemble (raw),original descriptor cohort only,327,31,90.5,86.8-93.5
+threshold_youden,Ensemble (raw),added in v2.0.0 only,32,2,93.8,79.2-99.2
+threshold_youden,Hybrid,all 359,359,17,95.3,92.5-97.2
+threshold_youden,Hybrid,original descriptor cohort only,327,15,95.4,92.5-97.4
+threshold_youden,Hybrid,added in v2.0.0 only,32,2,93.8,79.2-99.2
+threshold_sens90,Features + age,all 359,359,77,78.6,73.9-82.7
+threshold_sens90,Features + age,original descriptor cohort only,327,74,77.4,72.4-81.8
+threshold_sens90,Features + age,added in v2.0.0 only,32,3,90.6,75.0-98.0
+threshold_sens90,Ensemble (raw),all 359,359,72,79.9,75.4-84.0
+threshold_sens90,Ensemble (raw),original descriptor cohort only,327,69,78.9,74.1-83.2
+threshold_sens90,Ensemble (raw),added in v2.0.0 only,32,3,90.6,75.0-98.0
+threshold_sens90,Hybrid,all 359,359,40,88.9,85.1-91.9
+threshold_sens90,Hybrid,original descriptor cohort only,327,38,88.4,84.4-91.6
+threshold_sens90,Hybrid,added in v2.0.0 only,32,2,93.8,79.2-99.2

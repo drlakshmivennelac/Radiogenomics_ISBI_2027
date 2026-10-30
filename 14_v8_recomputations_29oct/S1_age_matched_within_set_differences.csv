@@ -1,0 +1,6 @@
+comparison,delta,ci
+Features + age minus Ensemble (raw),-0.05,-0.099 to +0.000
+Ensemble (raw) minus Features,0.031,-0.016 to +0.075
+Ensemble + features minus Features,0.046,+0.012 to +0.082
+Hybrid minus Features + age,0.065,+0.027 to +0.105
+Hybrid minus Ensemble + age,0.015,-0.015 to +0.047

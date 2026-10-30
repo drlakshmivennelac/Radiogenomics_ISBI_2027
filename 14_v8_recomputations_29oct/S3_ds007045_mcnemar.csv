@@ -1,0 +1,7 @@
+operating point,comparison,FP only by first,FP only by second,exact McNemar p
+threshold_youden,Hybrid vs Features + age,2,29,4.6e-07
+threshold_youden,Ensemble (raw) vs Features + age,19,30,0.15
+threshold_youden,Hybrid vs Ensemble (raw),5,21,0.0025
+threshold_sens90,Hybrid vs Features + age,4,41,9.3e-09
+threshold_sens90,Ensemble (raw) vs Features + age,44,49,0.68
+threshold_sens90,Hybrid vs Ensemble (raw),14,46,4.2e-05

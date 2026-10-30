@@ -1,0 +1,6 @@
+model,calibration slope,ci
+Features + age,1.06,0.80-1.52
+Ensemble (raw),0.97,0.75-1.32
+Ensemble + age,1.02,0.83-1.36
+Hybrid,1.03,0.82-1.41
+Confidence gate (RSNA),1.39,1.08-2.01
