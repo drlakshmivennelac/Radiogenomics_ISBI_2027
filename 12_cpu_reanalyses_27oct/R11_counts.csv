@@ -1,0 +1,8 @@
+item,value
+"mask provenance (1,393)","{'provided': 531, 'automated_approximate': 348, 'manual_correction_full_grid': 288, 'automated_FeTS': 226}"
+"grade groups (1,393)","{'grade 4': 1185, 'grade 2-3': 205, 'unknown': 3}"
+"unknown grade, by site",{'UTSW': 3}
+ADC + perfusion subset,"n = 776, 75 mutant, sites ['UCSF', 'UPENN']"
+"youngest patients (1,393)","[{'site': 'UTSW', 'age': 18.0, 'y': 0}, {'site': 'UCSF', 'age': 19.0, 'y': 1}, {'site': 'UCSF', 'age': 19.0, 'y': 1}]"
+youngest reserved patients (190),"[{'site': 'UCSF', 'age': 17.0, 'y': 1, 'grade_group': 'grade 4'}, {'site': 'UPENN', 'age': 20.74, 'y': 0, 'grade_group': 'grade 4'}, {'site': 'UTSW', 'age': 21.0, 'y': 1, 'grade_group': 'grade 2-3'}]"
+reserved: wildtype grade 2-3 / mutant grade 2-3,1 / 61

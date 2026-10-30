@@ -1,0 +1,64 @@
+{
+  "members": [
+    "v2_reference_seed42",
+    "v2_reference_seed44",
+    "v2_mean_concat_seed42"
+  ],
+  "weights": [
+    0.3333333333333333,
+    0.3333333333333333,
+    0.3333333333333333
+  ],
+  "checkpoints": 15,
+  "threshold": 0.14600733667612076,
+  "four_member_reconstruction_max_abs_diff": 1.1102230246251565e-16,
+  "note": "Recomputed from saved per-checkpoint external predictions; not a separately logged run. Post-treatment cohort; CIs are patient-cluster percentile bootstrap (2,000), conditional on fixed models.",
+  "primary_earliest_scan_per_patient": {
+    "n": 189,
+    "positive": 28,
+    "negative": 161,
+    "threshold": 0.14600733667612076,
+    "tp": 14,
+    "tn": 111,
+    "fp": 50,
+    "fn": 14,
+    "auroc": 0.6022626441881099,
+    "average_precision": 0.24708200492323823,
+    "sensitivity": 0.5,
+    "specificity": 0.6894409937888198,
+    "precision": 0.21875,
+    "npv": 0.888,
+    "positive_f1": 0.30434782608695654,
+    "brier": 0.15048995277775853,
+    "unique_patients": 189,
+    "auroc_95ci": [
+      0.4779424862396419,
+      0.7202841599268253
+    ],
+    "valid_replicates": 2000
+  },
+  "secondary_all_labelled_scans": {
+    "n": 558,
+    "positive": 99,
+    "negative": 459,
+    "threshold": 0.14600733667612076,
+    "tp": 59,
+    "tn": 343,
+    "fp": 116,
+    "fn": 40,
+    "auroc": 0.7022072577628133,
+    "average_precision": 0.4019909082039033,
+    "sensitivity": 0.5959595959595959,
+    "specificity": 0.7472766884531591,
+    "precision": 0.33714285714285713,
+    "npv": 0.8955613577023499,
+    "positive_f1": 0.4306569343065693,
+    "brier": 0.13968053707098935,
+    "unique_patients": 189,
+    "auroc_95ci": [
+      0.5888634497295677,
+      0.7981860425312904
+    ],
+    "valid_replicates": 2000
+  }
+}

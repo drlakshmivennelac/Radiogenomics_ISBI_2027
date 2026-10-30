@@ -1,0 +1,33 @@
+{
+  "patients": 40,
+  "complete_preoperative_patients": 40,
+  "missing_required_files": [],
+  "all_labels": {
+    "mut": 4,
+    "wt": 36
+  },
+  "primary_patients": 38,
+  "primary_labels": {
+    "mut": 4,
+    "wt": 34
+  },
+  "previously_treated": [
+    "RHUH-0016",
+    "RHUH-0024"
+  ],
+  "root": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1",
+  "clinical": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+  "mapping": {
+    "idh": {
+      "mut": "1",
+      "wt": "0",
+      "NOS": ""
+    },
+    "prior_treatment": {
+      "no": "no",
+      "surgery": "yes",
+      "surgery + QT/RT": "yes"
+    }
+  },
+  "scan_selection": "Exact patient/0/patient_0_{t1ce,flair,segmentations}.nii.gz; all 40 clinical rows retained. Partial downloads are never read as NIfTI."
+}

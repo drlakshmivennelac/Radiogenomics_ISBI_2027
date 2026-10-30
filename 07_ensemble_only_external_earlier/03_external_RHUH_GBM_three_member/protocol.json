@@ -1,0 +1,1574 @@
+{
+  "version": 1,
+  "rows": [
+    {
+      "subject_id": "RHUH-0001",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0001\\0\\RHUH-0001_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0001\\0\\RHUH-0001_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0001\\0\\RHUH-0001_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 1,
+      "prior_treatment": "no",
+      "idh_original": "mut",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0001",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0002",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0002\\0\\RHUH-0002_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0002\\0\\RHUH-0002_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0002\\0\\RHUH-0002_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0002",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0003",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0003\\0\\RHUH-0003_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0003\\0\\RHUH-0003_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0003\\0\\RHUH-0003_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0003",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0004",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0004\\0\\RHUH-0004_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0004\\0\\RHUH-0004_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0004\\0\\RHUH-0004_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0004",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0005",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0005\\0\\RHUH-0005_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0005\\0\\RHUH-0005_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0005\\0\\RHUH-0005_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0005",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0006",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0006\\0\\RHUH-0006_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0006\\0\\RHUH-0006_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0006\\0\\RHUH-0006_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0006",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0007",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0007\\0\\RHUH-0007_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0007\\0\\RHUH-0007_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0007\\0\\RHUH-0007_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0007",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0008",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0008\\0\\RHUH-0008_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0008\\0\\RHUH-0008_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0008\\0\\RHUH-0008_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0008",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0009",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0009\\0\\RHUH-0009_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0009\\0\\RHUH-0009_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0009\\0\\RHUH-0009_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0009",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0010",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0010\\0\\RHUH-0010_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0010\\0\\RHUH-0010_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0010\\0\\RHUH-0010_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0010",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0011",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0011\\0\\RHUH-0011_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0011\\0\\RHUH-0011_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0011\\0\\RHUH-0011_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0011",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0012",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0012\\0\\RHUH-0012_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0012\\0\\RHUH-0012_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0012\\0\\RHUH-0012_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0012",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0013",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0013\\0\\RHUH-0013_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0013\\0\\RHUH-0013_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0013\\0\\RHUH-0013_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0013",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0014",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0014\\0\\RHUH-0014_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0014\\0\\RHUH-0014_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0014\\0\\RHUH-0014_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0014",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0015",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0015\\0\\RHUH-0015_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0015\\0\\RHUH-0015_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0015\\0\\RHUH-0015_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0015",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0016",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0016\\0\\RHUH-0016_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0016\\0\\RHUH-0016_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0016\\0\\RHUH-0016_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "yes",
+      "idh_original": "wt",
+      "prior_treatment_original": "surgery + QT/RT",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0016",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0017",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0017\\0\\RHUH-0017_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0017\\0\\RHUH-0017_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0017\\0\\RHUH-0017_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0017",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0018",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0018\\0\\RHUH-0018_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0018\\0\\RHUH-0018_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0018\\0\\RHUH-0018_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0018",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0019",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0019\\0\\RHUH-0019_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0019\\0\\RHUH-0019_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0019\\0\\RHUH-0019_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0019",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0020",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0020\\0\\RHUH-0020_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0020\\0\\RHUH-0020_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0020\\0\\RHUH-0020_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0020",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0021",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0021\\0\\RHUH-0021_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0021\\0\\RHUH-0021_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0021\\0\\RHUH-0021_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0021",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0022",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0022\\0\\RHUH-0022_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0022\\0\\RHUH-0022_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0022\\0\\RHUH-0022_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0022",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0023",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0023\\0\\RHUH-0023_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0023\\0\\RHUH-0023_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0023\\0\\RHUH-0023_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 1,
+      "prior_treatment": "no",
+      "idh_original": "mut",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0023",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0024",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0024\\0\\RHUH-0024_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0024\\0\\RHUH-0024_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0024\\0\\RHUH-0024_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "yes",
+      "idh_original": "wt",
+      "prior_treatment_original": "surgery + QT/RT",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0024",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0025",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0025\\0\\RHUH-0025_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0025\\0\\RHUH-0025_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0025\\0\\RHUH-0025_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0025",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0026",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0026\\0\\RHUH-0026_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0026\\0\\RHUH-0026_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0026\\0\\RHUH-0026_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0026",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0027",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0027\\0\\RHUH-0027_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0027\\0\\RHUH-0027_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0027\\0\\RHUH-0027_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0027",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0028",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0028\\0\\RHUH-0028_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0028\\0\\RHUH-0028_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0028\\0\\RHUH-0028_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0028",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0029",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0029\\0\\RHUH-0029_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0029\\0\\RHUH-0029_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0029\\0\\RHUH-0029_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0029",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0030",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0030\\0\\RHUH-0030_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0030\\0\\RHUH-0030_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0030\\0\\RHUH-0030_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0030",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0031",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0031\\0\\RHUH-0031_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0031\\0\\RHUH-0031_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0031\\0\\RHUH-0031_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0031",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0032",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0032\\0\\RHUH-0032_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0032\\0\\RHUH-0032_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0032\\0\\RHUH-0032_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0032",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0033",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0033\\0\\RHUH-0033_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0033\\0\\RHUH-0033_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0033\\0\\RHUH-0033_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0033",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0034",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0034\\0\\RHUH-0034_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0034\\0\\RHUH-0034_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0034\\0\\RHUH-0034_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0034",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0035",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0035\\0\\RHUH-0035_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0035\\0\\RHUH-0035_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0035\\0\\RHUH-0035_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 1,
+      "prior_treatment": "no",
+      "idh_original": "mut",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0035",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0036",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0036\\0\\RHUH-0036_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0036\\0\\RHUH-0036_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0036\\0\\RHUH-0036_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0036",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0037",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0037\\0\\RHUH-0037_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0037\\0\\RHUH-0037_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0037\\0\\RHUH-0037_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 1,
+      "prior_treatment": "no",
+      "idh_original": "mut",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0037",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0038",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0038\\0\\RHUH-0038_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0038\\0\\RHUH-0038_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0038\\0\\RHUH-0038_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0038",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0039",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0039\\0\\RHUH-0039_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0039\\0\\RHUH-0039_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0039\\0\\RHUH-0039_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0039",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    },
+    {
+      "subject_id": "RHUH-0040",
+      "timepoint": "preoperative",
+      "t1c_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0040\\0\\RHUH-0040_0_t1ce.nii.gz",
+      "flair_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0040\\0\\RHUH-0040_0_flair.nii.gz",
+      "tumor_mask_path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0040\\0\\RHUH-0040_0_segmentations.nii.gz",
+      "brain_mask_path": "",
+      "idh": 0,
+      "prior_treatment": "no",
+      "idh_original": "wt",
+      "prior_treatment_original": "no",
+      "clinical_source": "C:\\Users\\claks\\Downloads\\clinical_data_TCIA_RHUH-GBM.csv",
+      "exclude_reason": "",
+      "patient_id": "RHUH:RHUH-0040",
+      "site": "RHUH",
+      "mgmt": null,
+      "idh_observed": true,
+      "mgmt_observed": false
+    }
+  ],
+  "excluded": [],
+  "images": {
+    "RHUH:RHUH-0001": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0001\\0\\RHUH-0001_0_t1ce.nii.gz",
+        "size": 6415416,
+        "mtime_ns": 1790451359355767100
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0001\\0\\RHUH-0001_0_flair.nii.gz",
+        "size": 6320735,
+        "mtime_ns": 1790451357215540000
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0001\\0\\RHUH-0001_0_segmentations.nii.gz",
+        "size": 38988,
+        "mtime_ns": 1790451357220539200
+      }
+    },
+    "RHUH:RHUH-0002": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0002\\0\\RHUH-0002_0_t1ce.nii.gz",
+        "size": 4737625,
+        "mtime_ns": 1790451345618538900
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0002\\0\\RHUH-0002_0_flair.nii.gz",
+        "size": 4724832,
+        "mtime_ns": 1790451344025115800
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0002\\0\\RHUH-0002_0_segmentations.nii.gz",
+        "size": 22674,
+        "mtime_ns": 1790451344028619100
+      }
+    },
+    "RHUH:RHUH-0003": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0003\\0\\RHUH-0003_0_t1ce.nii.gz",
+        "size": 5663714,
+        "mtime_ns": 1790451334774580700
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0003\\0\\RHUH-0003_0_flair.nii.gz",
+        "size": 5638786,
+        "mtime_ns": 1790451332882126500
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0003\\0\\RHUH-0003_0_segmentations.nii.gz",
+        "size": 26094,
+        "mtime_ns": 1790451332885385800
+      }
+    },
+    "RHUH:RHUH-0004": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0004\\0\\RHUH-0004_0_t1ce.nii.gz",
+        "size": 4875196,
+        "mtime_ns": 1790451322151643400
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0004\\0\\RHUH-0004_0_flair.nii.gz",
+        "size": 4875907,
+        "mtime_ns": 1790451320526959200
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0004\\0\\RHUH-0004_0_segmentations.nii.gz",
+        "size": 34629,
+        "mtime_ns": 1790451320533959300
+      }
+    },
+    "RHUH:RHUH-0005": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0005\\0\\RHUH-0005_0_t1ce.nii.gz",
+        "size": 5643414,
+        "mtime_ns": 1790451311150909700
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0005\\0\\RHUH-0005_0_flair.nii.gz",
+        "size": 5670314,
+        "mtime_ns": 1790451309248368200
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0005\\0\\RHUH-0005_0_segmentations.nii.gz",
+        "size": 28823,
+        "mtime_ns": 1790451309251922100
+      }
+    },
+    "RHUH:RHUH-0006": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0006\\0\\RHUH-0006_0_t1ce.nii.gz",
+        "size": 5388012,
+        "mtime_ns": 1790451297437282000
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0006\\0\\RHUH-0006_0_flair.nii.gz",
+        "size": 5371830,
+        "mtime_ns": 1790451295671526400
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0006\\0\\RHUH-0006_0_segmentations.nii.gz",
+        "size": 43002,
+        "mtime_ns": 1790451295671526400
+      }
+    },
+    "RHUH:RHUH-0007": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0007\\0\\RHUH-0007_0_t1ce.nii.gz",
+        "size": 5683486,
+        "mtime_ns": 1790451285575359700
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0007\\0\\RHUH-0007_0_flair.nii.gz",
+        "size": 5679339,
+        "mtime_ns": 1790451283410586000
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0007\\0\\RHUH-0007_0_segmentations.nii.gz",
+        "size": 41984,
+        "mtime_ns": 1790451283410586000
+      }
+    },
+    "RHUH:RHUH-0008": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0008\\0\\RHUH-0008_0_t1ce.nii.gz",
+        "size": 5750374,
+        "mtime_ns": 1790451272330882000
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0008\\0\\RHUH-0008_0_flair.nii.gz",
+        "size": 5742447,
+        "mtime_ns": 1790451270414237500
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0008\\0\\RHUH-0008_0_segmentations.nii.gz",
+        "size": 33851,
+        "mtime_ns": 1790451270418240700
+      }
+    },
+    "RHUH:RHUH-0009": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0009\\0\\RHUH-0009_0_t1ce.nii.gz",
+        "size": 6026599,
+        "mtime_ns": 1790451259793772800
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0009\\0\\RHUH-0009_0_flair.nii.gz",
+        "size": 6026672,
+        "mtime_ns": 1790451257773452500
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0009\\0\\RHUH-0009_0_segmentations.nii.gz",
+        "size": 41336,
+        "mtime_ns": 1790451258058677700
+      }
+    },
+    "RHUH:RHUH-0010": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0010\\0\\RHUH-0010_0_t1ce.nii.gz",
+        "size": 5838297,
+        "mtime_ns": 1790451246676815800
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0010\\0\\RHUH-0010_0_flair.nii.gz",
+        "size": 5815509,
+        "mtime_ns": 1790451244620894800
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0010\\0\\RHUH-0010_0_segmentations.nii.gz",
+        "size": 24975,
+        "mtime_ns": 1790451244623899000
+      }
+    },
+    "RHUH:RHUH-0011": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0011\\0\\RHUH-0011_0_t1ce.nii.gz",
+        "size": 5729745,
+        "mtime_ns": 1790451226284374300
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0011\\0\\RHUH-0011_0_flair.nii.gz",
+        "size": 5750340,
+        "mtime_ns": 1790451224359423900
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0011\\0\\RHUH-0011_0_segmentations.nii.gz",
+        "size": 41013,
+        "mtime_ns": 1790451224366952800
+      }
+    },
+    "RHUH:RHUH-0012": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0012\\0\\RHUH-0012_0_t1ce.nii.gz",
+        "size": 5323383,
+        "mtime_ns": 1790451214050213600
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0012\\0\\RHUH-0012_0_flair.nii.gz",
+        "size": 5335605,
+        "mtime_ns": 1790451212260950700
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0012\\0\\RHUH-0012_0_segmentations.nii.gz",
+        "size": 40463,
+        "mtime_ns": 1790451212265069200
+      }
+    },
+    "RHUH:RHUH-0013": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0013\\0\\RHUH-0013_0_t1ce.nii.gz",
+        "size": 5863649,
+        "mtime_ns": 1790451201615126400
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0013\\0\\RHUH-0013_0_flair.nii.gz",
+        "size": 5887241,
+        "mtime_ns": 1790451199647613000
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0013\\0\\RHUH-0013_0_segmentations.nii.gz",
+        "size": 44929,
+        "mtime_ns": 1790451199653125400
+      }
+    },
+    "RHUH:RHUH-0014": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0014\\0\\RHUH-0014_0_t1ce.nii.gz",
+        "size": 6290950,
+        "mtime_ns": 1790451188336295900
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0014\\0\\RHUH-0014_0_flair.nii.gz",
+        "size": 6558695,
+        "mtime_ns": 1790451186228471600
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0014\\0\\RHUH-0014_0_segmentations.nii.gz",
+        "size": 45459,
+        "mtime_ns": 1790451186234977600
+      }
+    },
+    "RHUH:RHUH-0015": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0015\\0\\RHUH-0015_0_t1ce.nii.gz",
+        "size": 5505728,
+        "mtime_ns": 1790451173086274400
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0015\\0\\RHUH-0015_0_flair.nii.gz",
+        "size": 5508084,
+        "mtime_ns": 1790451170189218500
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0015\\0\\RHUH-0015_0_segmentations.nii.gz",
+        "size": 33147,
+        "mtime_ns": 1790451170197347400
+      }
+    },
+    "RHUH:RHUH-0016": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0016\\0\\RHUH-0016_0_t1ce.nii.gz",
+        "size": 5401101,
+        "mtime_ns": 1790451154324960500
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0016\\0\\RHUH-0016_0_flair.nii.gz",
+        "size": 5390015,
+        "mtime_ns": 1790451152506308600
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0016\\0\\RHUH-0016_0_segmentations.nii.gz",
+        "size": 38196,
+        "mtime_ns": 1790451152512913700
+      }
+    },
+    "RHUH:RHUH-0017": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0017\\0\\RHUH-0017_0_t1ce.nii.gz",
+        "size": 5356778,
+        "mtime_ns": 1790451141337169000
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0017\\0\\RHUH-0017_0_flair.nii.gz",
+        "size": 5353865,
+        "mtime_ns": 1790451139546060200
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0017\\0\\RHUH-0017_0_segmentations.nii.gz",
+        "size": 22038,
+        "mtime_ns": 1790451139546060200
+      }
+    },
+    "RHUH:RHUH-0018": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0018\\0\\RHUH-0018_0_t1ce.nii.gz",
+        "size": 5997583,
+        "mtime_ns": 1790451128986912700
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0018\\0\\RHUH-0018_0_flair.nii.gz",
+        "size": 6269140,
+        "mtime_ns": 1790451126921600400
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0018\\0\\RHUH-0018_0_segmentations.nii.gz",
+        "size": 43410,
+        "mtime_ns": 1790451126929099800
+      }
+    },
+    "RHUH:RHUH-0019": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0019\\0\\RHUH-0019_0_t1ce.nii.gz",
+        "size": 5433193,
+        "mtime_ns": 1790451115531519100
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0019\\0\\RHUH-0019_0_flair.nii.gz",
+        "size": 5561854,
+        "mtime_ns": 1790451113702687100
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0019\\0\\RHUH-0019_0_segmentations.nii.gz",
+        "size": 40109,
+        "mtime_ns": 1790451113702687100
+      }
+    },
+    "RHUH:RHUH-0020": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0020\\0\\RHUH-0020_0_t1ce.nii.gz",
+        "size": 6139513,
+        "mtime_ns": 1790451092173145500
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0020\\0\\RHUH-0020_0_flair.nii.gz",
+        "size": 6176472,
+        "mtime_ns": 1790451089774229200
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0020\\0\\RHUH-0020_0_segmentations.nii.gz",
+        "size": 44082,
+        "mtime_ns": 1790451089779229200
+      }
+    },
+    "RHUH:RHUH-0021": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0021\\0\\RHUH-0021_0_t1ce.nii.gz",
+        "size": 5217262,
+        "mtime_ns": 1790451078344777000
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0021\\0\\RHUH-0021_0_flair.nii.gz",
+        "size": 5217095,
+        "mtime_ns": 1790451076601384800
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0021\\0\\RHUH-0021_0_segmentations.nii.gz",
+        "size": 30604,
+        "mtime_ns": 1790451076603376400
+      }
+    },
+    "RHUH:RHUH-0022": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0022\\0\\RHUH-0022_0_t1ce.nii.gz",
+        "size": 4559305,
+        "mtime_ns": 1790451065926573600
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0022\\0\\RHUH-0022_0_flair.nii.gz",
+        "size": 4599732,
+        "mtime_ns": 1790451064388129600
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0022\\0\\RHUH-0022_0_segmentations.nii.gz",
+        "size": 30894,
+        "mtime_ns": 1790451064391128200
+      }
+    },
+    "RHUH:RHUH-0023": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0023\\0\\RHUH-0023_0_t1ce.nii.gz",
+        "size": 5684706,
+        "mtime_ns": 1790451055578147700
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0023\\0\\RHUH-0023_0_flair.nii.gz",
+        "size": 5684630,
+        "mtime_ns": 1790451053798809700
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0023\\0\\RHUH-0023_0_segmentations.nii.gz",
+        "size": 36319,
+        "mtime_ns": 1790451053677504900
+      }
+    },
+    "RHUH:RHUH-0024": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0024\\0\\RHUH-0024_0_t1ce.nii.gz",
+        "size": 6564214,
+        "mtime_ns": 1790451042884056800
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0024\\0\\RHUH-0024_0_flair.nii.gz",
+        "size": 6475564,
+        "mtime_ns": 1790451040442816600
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0024\\0\\RHUH-0024_0_segmentations.nii.gz",
+        "size": 22549,
+        "mtime_ns": 1790451040443819600
+      }
+    },
+    "RHUH:RHUH-0025": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0025\\0\\RHUH-0025_0_t1ce.nii.gz",
+        "size": 5829950,
+        "mtime_ns": 1790451028216723000
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0025\\0\\RHUH-0025_0_flair.nii.gz",
+        "size": 5878852,
+        "mtime_ns": 1790451026368406900
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0025\\0\\RHUH-0025_0_segmentations.nii.gz",
+        "size": 23760,
+        "mtime_ns": 1790451026104792200
+      }
+    },
+    "RHUH:RHUH-0026": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0026\\0\\RHUH-0026_0_t1ce.nii.gz",
+        "size": 5233545,
+        "mtime_ns": 1790451014621663600
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0026\\0\\RHUH-0026_0_flair.nii.gz",
+        "size": 5241771,
+        "mtime_ns": 1790451012857891400
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0026\\0\\RHUH-0026_0_segmentations.nii.gz",
+        "size": 23681,
+        "mtime_ns": 1790451012862898600
+      }
+    },
+    "RHUH:RHUH-0027": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0027\\0\\RHUH-0027_0_t1ce.nii.gz",
+        "size": 5194751,
+        "mtime_ns": 1790451001969371000
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0027\\0\\RHUH-0027_0_flair.nii.gz",
+        "size": 5257056,
+        "mtime_ns": 1790451000290264400
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0027\\0\\RHUH-0027_0_segmentations.nii.gz",
+        "size": 41220,
+        "mtime_ns": 1790451000293632200
+      }
+    },
+    "RHUH:RHUH-0028": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0028\\0\\RHUH-0028_0_t1ce.nii.gz",
+        "size": 5114231,
+        "mtime_ns": 1790450989343645800
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0028\\0\\RHUH-0028_0_flair.nii.gz",
+        "size": 5468510,
+        "mtime_ns": 1790450987555764200
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0028\\0\\RHUH-0028_0_segmentations.nii.gz",
+        "size": 37492,
+        "mtime_ns": 1790450987560816800
+      }
+    },
+    "RHUH:RHUH-0029": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0029\\0\\RHUH-0029_0_t1ce.nii.gz",
+        "size": 6391452,
+        "mtime_ns": 1790450977129850900
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0029\\0\\RHUH-0029_0_flair.nii.gz",
+        "size": 6513293,
+        "mtime_ns": 1790450974702747300
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0029\\0\\RHUH-0029_0_segmentations.nii.gz",
+        "size": 47430,
+        "mtime_ns": 1790450974703759300
+      }
+    },
+    "RHUH:RHUH-0030": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0030\\0\\RHUH-0030_0_t1ce.nii.gz",
+        "size": 5835724,
+        "mtime_ns": 1790450952337445400
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0030\\0\\RHUH-0030_0_flair.nii.gz",
+        "size": 5851491,
+        "mtime_ns": 1790450950381061700
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0030\\0\\RHUH-0030_0_segmentations.nii.gz",
+        "size": 34274,
+        "mtime_ns": 1790450950384565400
+      }
+    },
+    "RHUH:RHUH-0031": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0031\\0\\RHUH-0031_0_t1ce.nii.gz",
+        "size": 4558670,
+        "mtime_ns": 1790450938571308700
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0031\\0\\RHUH-0031_0_flair.nii.gz",
+        "size": 4554347,
+        "mtime_ns": 1790450937055553300
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0031\\0\\RHUH-0031_0_segmentations.nii.gz",
+        "size": 25916,
+        "mtime_ns": 1790450937055553300
+      }
+    },
+    "RHUH:RHUH-0032": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0032\\0\\RHUH-0032_0_t1ce.nii.gz",
+        "size": 5770946,
+        "mtime_ns": 1790450926986753600
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0032\\0\\RHUH-0032_0_flair.nii.gz",
+        "size": 5787166,
+        "mtime_ns": 1790450925052196600
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0032\\0\\RHUH-0032_0_segmentations.nii.gz",
+        "size": 46876,
+        "mtime_ns": 1790450925057736000
+      }
+    },
+    "RHUH:RHUH-0033": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0033\\0\\RHUH-0033_0_t1ce.nii.gz",
+        "size": 5713814,
+        "mtime_ns": 1790450913943377700
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0033\\0\\RHUH-0033_0_flair.nii.gz",
+        "size": 5707584,
+        "mtime_ns": 1790450912036187500
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0033\\0\\RHUH-0033_0_segmentations.nii.gz",
+        "size": 28362,
+        "mtime_ns": 1790450912040186800
+      }
+    },
+    "RHUH:RHUH-0034": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0034\\0\\RHUH-0034_0_t1ce.nii.gz",
+        "size": 5803491,
+        "mtime_ns": 1790450900957732600
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0034\\0\\RHUH-0034_0_flair.nii.gz",
+        "size": 5811361,
+        "mtime_ns": 1790450899146729000
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0034\\0\\RHUH-0034_0_segmentations.nii.gz",
+        "size": 30398,
+        "mtime_ns": 1790450899009463400
+      }
+    },
+    "RHUH:RHUH-0035": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0035\\0\\RHUH-0035_0_t1ce.nii.gz",
+        "size": 5258603,
+        "mtime_ns": 1790450887491747900
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0035\\0\\RHUH-0035_0_flair.nii.gz",
+        "size": 5321409,
+        "mtime_ns": 1790450885723311000
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0035\\0\\RHUH-0035_0_segmentations.nii.gz",
+        "size": 34514,
+        "mtime_ns": 1790450885729358100
+      }
+    },
+    "RHUH:RHUH-0036": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0036\\0\\RHUH-0036_0_t1ce.nii.gz",
+        "size": 5310943,
+        "mtime_ns": 1790450874708252600
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0036\\0\\RHUH-0036_0_flair.nii.gz",
+        "size": 5257602,
+        "mtime_ns": 1790450872930757100
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0036\\0\\RHUH-0036_0_segmentations.nii.gz",
+        "size": 40631,
+        "mtime_ns": 1790450872935907700
+      }
+    },
+    "RHUH:RHUH-0037": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0037\\0\\RHUH-0037_0_t1ce.nii.gz",
+        "size": 6218841,
+        "mtime_ns": 1790450862071392700
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0037\\0\\RHUH-0037_0_flair.nii.gz",
+        "size": 6204274,
+        "mtime_ns": 1790450859992531200
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0037\\0\\RHUH-0037_0_segmentations.nii.gz",
+        "size": 28548,
+        "mtime_ns": 1790450859992531200
+      }
+    },
+    "RHUH:RHUH-0038": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0038\\0\\RHUH-0038_0_t1ce.nii.gz",
+        "size": 5778663,
+        "mtime_ns": 1790450848337566100
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0038\\0\\RHUH-0038_0_flair.nii.gz",
+        "size": 5621968,
+        "mtime_ns": 1790450846417879500
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0038\\0\\RHUH-0038_0_segmentations.nii.gz",
+        "size": 43865,
+        "mtime_ns": 1790450846421399100
+      }
+    },
+    "RHUH:RHUH-0039": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0039\\0\\RHUH-0039_0_t1ce.nii.gz",
+        "size": 5237500,
+        "mtime_ns": 1790450835444453100
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0039\\0\\RHUH-0039_0_flair.nii.gz",
+        "size": 5215795,
+        "mtime_ns": 1790450833691797200
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0039\\0\\RHUH-0039_0_segmentations.nii.gz",
+        "size": 41007,
+        "mtime_ns": 1790450833696427900
+      }
+    },
+    "RHUH:RHUH-0040": {
+      "t1c_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0040\\0\\RHUH-0040_0_t1ce.nii.gz",
+        "size": 6419238,
+        "mtime_ns": 1790450822858154900
+      },
+      "flair_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0040\\0\\RHUH-0040_0_flair.nii.gz",
+        "size": 6410442,
+        "mtime_ns": 1790450820707509100
+      },
+      "tumor_mask_path": {
+        "path": "C:\\Users\\claks\\Downloads\\PKG - RHUH-GBM-nii-v1\\RHUH-GBM_nii_v1\\RHUH-0040\\0\\RHUH-0040_0_segmentations.nii.gz",
+        "size": 26584,
+        "mtime_ns": 1790450820708508800
+      }
+    }
+  },
+  "checkpoints": [
+    {
+      "member": "v2_reference_seed42",
+      "fold": 1,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed42\\fold_1\\best.pt",
+      "size": 273328264,
+      "mtime_ns": 1790168991056843500
+    },
+    {
+      "member": "v2_reference_seed42",
+      "fold": 2,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed42\\fold_2\\best.pt",
+      "size": 273328264,
+      "mtime_ns": 1790171315698849100
+    },
+    {
+      "member": "v2_reference_seed42",
+      "fold": 3,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed42\\fold_3\\best.pt",
+      "size": 273328264,
+      "mtime_ns": 1790173226497032800
+    },
+    {
+      "member": "v2_reference_seed42",
+      "fold": 4,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed42\\fold_4\\best.pt",
+      "size": 273328264,
+      "mtime_ns": 1790175136247130900
+    },
+    {
+      "member": "v2_reference_seed42",
+      "fold": 5,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed42\\fold_5\\best.pt",
+      "size": 273328264,
+      "mtime_ns": 1790177635642976000
+    },
+    {
+      "member": "v2_reference_seed44",
+      "fold": 1,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed44\\fold_1\\best.pt",
+      "size": 273328264,
+      "mtime_ns": 1790195111943884700
+    },
+    {
+      "member": "v2_reference_seed44",
+      "fold": 2,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed44\\fold_2\\best.pt",
+      "size": 273328264,
+      "mtime_ns": 1790197322133364100
+    },
+    {
+      "member": "v2_reference_seed44",
+      "fold": 3,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed44\\fold_3\\best.pt",
+      "size": 273328264,
+      "mtime_ns": 1790199487012738100
+    },
+    {
+      "member": "v2_reference_seed44",
+      "fold": 4,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed44\\fold_4\\best.pt",
+      "size": 273328264,
+      "mtime_ns": 1790243972381690200
+    },
+    {
+      "member": "v2_reference_seed44",
+      "fold": 5,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed44\\fold_5\\best.pt",
+      "size": 273328264,
+      "mtime_ns": 1790246273147139700
+    },
+    {
+      "member": "v2_mean_concat_seed42",
+      "fold": 1,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_mean_concat_seed42\\fold_1\\best.pt",
+      "size": 266933785,
+      "mtime_ns": 1790260337036519300
+    },
+    {
+      "member": "v2_mean_concat_seed42",
+      "fold": 2,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_mean_concat_seed42\\fold_2\\best.pt",
+      "size": 266933785,
+      "mtime_ns": 1790262653677014700
+    },
+    {
+      "member": "v2_mean_concat_seed42",
+      "fold": 3,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_mean_concat_seed42\\fold_3\\best.pt",
+      "size": 266933785,
+      "mtime_ns": 1790265159720041800
+    },
+    {
+      "member": "v2_mean_concat_seed42",
+      "fold": 4,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_mean_concat_seed42\\fold_4\\best.pt",
+      "size": 266933785,
+      "mtime_ns": 1790267742146613200
+    },
+    {
+      "member": "v2_mean_concat_seed42",
+      "fold": 5,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_mean_concat_seed42\\fold_5\\best.pt",
+      "size": 266933785,
+      "mtime_ns": 1790270659056320800
+    }
+  ],
+  "threshold": 0.14600733667612076,
+  "member_weights": [
+    0.3333333333333333,
+    0.3333333333333333,
+    0.3333333333333333
+  ],
+  "fold_weights": [
+    0.2,
+    0.2,
+    0.2,
+    0.2,
+    0.2
+  ],
+  "tta": false,
+  "amp": false,
+  "aggregation": "Mean sigmoid probability over five folds within each family, then equal mean over three families (15 checkpoints). OOF used one held-out fold per family; external fold averaging may change calibration.",
+  "primary": "Preoperative patients explicitly prior_treatment=no; unknown history excluded from primary.",
+  "secondary": "All preoperative patients, with previously treated and unknown-history strata reported separately.",
+  "selection": "No external tuning, threshold search, balancing, or checkpoint selection."
+}

@@ -1,0 +1,11 @@
+comparison,delta_auroc,ci,p_le_0
+Hybrid minus Age,0.0660492457852706,0.026-0.106,0.0
+Hybrid minus Features,0.08340727595385977,0.043-0.127,0.0
+Hybrid minus Features + age,0.00976042590949422,-0.008-0.028,0.1365
+Hybrid minus Ensemble (raw),0.07431233362910394,0.038-0.117,0.0
+Hybrid minus Ensemble (recalibrated),0.07431233362910394,0.038-0.117,0.0
+Hybrid minus Ensemble + age,0.010093167701863415,-0.003-0.023,0.0575
+Hybrid minus Ensemble + features,0.03759982253771066,0.008-0.071,0.0055
+Hybrid minus Confidence gate (RSNA),0.009205856255545819,-0.002-0.022,0.0525
+Ensemble + age minus Ensemble (recalibrated),0.06421916592724053,0.031-0.103,0.0
+Confidence gate (RSNA) minus Ensemble (recalibrated),0.06510647737355812,0.033-0.103,0.0

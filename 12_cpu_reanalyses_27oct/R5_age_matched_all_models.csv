@@ -1,0 +1,11 @@
+model,contains age,"AUROC, age-matched (95% CI)","AUROC, all patients",published
+Age,True,0.533 (0.516 to 0.549),0.889,0.533 (0.516 to 0.549)
+Features,False,0.878 (0.835 to 0.916),0.883,0.878 (0.835 to 0.916)
+Features + age,True,0.793 (0.753 to 0.835),0.94,0.793 (0.753 to 0.835)
+Ensemble (raw),False,0.900 (0.862 to 0.930),0.926,0.900 (0.862 to 0.930)
+Ensemble (recalibrated),False,0.897 (0.858 to 0.928),0.925,
+Ensemble + age,True,0.835 (0.794 to 0.877),0.955,0.835 (0.794 to 0.877)
+Ensemble + features,False,0.917 (0.883 to 0.948),0.933,
+Hybrid,True,0.868 (0.829 to 0.909),0.961,0.868 (0.829 to 0.909)
+Confidence gate (D1),True,0.884 (0.846 to 0.921),0.956,
+"Gate, threshold-centred (D2)",True,0.884 (0.846 to 0.921),0.957,

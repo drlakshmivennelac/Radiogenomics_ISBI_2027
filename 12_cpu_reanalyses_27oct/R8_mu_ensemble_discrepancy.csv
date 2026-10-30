@@ -1,0 +1,9 @@
+analysis,n,mutant,ensemble AUROC
+folder 07: earliest labelled scan per patient (any scan),189,28,0.602
+"folder 04: earliest labelled scan that has a tumour mask, extraction errors dropped",189,28,0.627
+"folder 04 published: earliest scan per patient, Age",189,28,0.934
+"folder 04 published: earliest scan per patient, Ensemble (raw)",189,28,0.627
+"folder 04 published: earliest scan per patient, Hybrid",188,27,0.87
+"folder 04 published: all scans (patient-cluster bootstrap), Age",554,95,0.93
+"folder 04 published: all scans (patient-cluster bootstrap), Ensemble (raw)",554,95,0.711
+"folder 04 published: all scans (patient-cluster bootstrap), Hybrid",551,93,0.909

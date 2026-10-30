@@ -1,0 +1,4 @@
+sequence,share enhancing (median),enrichment enhancing (median),share nonenh_core (median),enrichment nonenh_core (median),share oedema (median),enrichment oedema (median),share ring (median),enrichment ring (median),share distant (median),enrichment distant (median)
+T1c,0.016,2.35,0.005,1.47,0.048,0.71,0.258,1.27,0.625,0.9
+FLAIR,0.001,0.32,0.001,0.26,0.02,0.38,0.142,0.78,0.782,1.09
+volume share (median),0.008,,0.003,,0.069,,0.201,,0.696,

@@ -1,0 +1,9 @@
+item,n,detail
+review sample,132,"{'TN': 33, 'TP': 33, 'FP': 33, 'FN': 33}"
+"not in the 1,393 analysis cohort",4,"{'TP': 3, 'FN': 1}"
+no lesion voxels (excluded from region tests),1,['UPENN FN']
+"C1 FLAIR enrichment, mutant vs wildtype",128,"{'wildtype': 66, 'mutant': 62}"
+"C2 T1c density, enhancing cases",98,
+"C3 outside-lesion share, errors vs correct",131,"errors 65, correct 66"
+C4 FN vs TP (finite FLAIR enrichment),62,"{'FN': 32, 'TP': 30}"
+sampling,1432,"threshold 0.14600733667612076, outcome categories from the ensemble at that threshold"

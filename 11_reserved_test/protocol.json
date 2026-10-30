@@ -1,0 +1,113 @@
+{
+  "frozen_models": "c:\\Users\\claks\\OneDrive\\\u6587\u4ef6\\ChatGPT\\RadGenome\\outputs\\idh_hybrid\\frozen_models.json",
+  "frozen_models_sha256": "79f0b24386efe6150b81fa20dc5d452dd7d080bf8f6b48e771013ae57bb79ae4",
+  "holdout_fingerprint": "e5d57aaf5a362f18119e13babe84afd9c93835d5d23f779944b3a5b1b164caed",
+  "test_ids_sha256": "87494ca10c2e1a8ab018416cea83ea6f401b5644933867ae40750c5b3cd98c74",
+  "checkpoints": [
+    {
+      "member": "v2_reference_seed42",
+      "fold": 1,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed42\\fold_1\\best.pt",
+      "bytes": 273328264
+    },
+    {
+      "member": "v2_reference_seed42",
+      "fold": 2,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed42\\fold_2\\best.pt",
+      "bytes": 273328264
+    },
+    {
+      "member": "v2_reference_seed42",
+      "fold": 3,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed42\\fold_3\\best.pt",
+      "bytes": 273328264
+    },
+    {
+      "member": "v2_reference_seed42",
+      "fold": 4,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed42\\fold_4\\best.pt",
+      "bytes": 273328264
+    },
+    {
+      "member": "v2_reference_seed42",
+      "fold": 5,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed42\\fold_5\\best.pt",
+      "bytes": 273328264
+    },
+    {
+      "member": "v2_reference_seed44",
+      "fold": 1,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed44\\fold_1\\best.pt",
+      "bytes": 273328264
+    },
+    {
+      "member": "v2_reference_seed44",
+      "fold": 2,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed44\\fold_2\\best.pt",
+      "bytes": 273328264
+    },
+    {
+      "member": "v2_reference_seed44",
+      "fold": 3,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed44\\fold_3\\best.pt",
+      "bytes": 273328264
+    },
+    {
+      "member": "v2_reference_seed44",
+      "fold": 4,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed44\\fold_4\\best.pt",
+      "bytes": 273328264
+    },
+    {
+      "member": "v2_reference_seed44",
+      "fold": 5,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_reference_seed44\\fold_5\\best.pt",
+      "bytes": 273328264
+    },
+    {
+      "member": "v2_mean_concat_seed42",
+      "fold": 1,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_mean_concat_seed42\\fold_1\\best.pt",
+      "bytes": 266933785
+    },
+    {
+      "member": "v2_mean_concat_seed42",
+      "fold": 2,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_mean_concat_seed42\\fold_2\\best.pt",
+      "bytes": 266933785
+    },
+    {
+      "member": "v2_mean_concat_seed42",
+      "fold": 3,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_mean_concat_seed42\\fold_3\\best.pt",
+      "bytes": 266933785
+    },
+    {
+      "member": "v2_mean_concat_seed42",
+      "fold": 4,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_mean_concat_seed42\\fold_4\\best.pt",
+      "bytes": 266933785
+    },
+    {
+      "member": "v2_mean_concat_seed42",
+      "fold": 5,
+      "path": "C:\\Users\\claks\\Downloads\\outputs\\clinical_experiments\\v2_mean_concat_seed42\\fold_5\\best.pt",
+      "bytes": 266933785
+    }
+  ],
+  "ensemble": "mean over 3 members of the mean over 5 fold checkpoints (probabilities)",
+  "features": "development extraction (features.csv); z-scored with development site statistics",
+  "primary": "AUROC of the frozen Hybrid",
+  "secondary": [
+    "paired AUROC differences: Hybrid minus each other frozen model",
+    "sensitivity/specificity at frozen Youden and 90%-sensitivity thresholds",
+    "PPV/NPV re-weighted to development prevalence",
+    "grade-4 and per-site subgroups"
+  ],
+  "bootstrap": {
+    "reps": 2000,
+    "seed": 20261021,
+    "strata": "site x IDH"
+  },
+  "written": "2026-10-22 17:26"
+}

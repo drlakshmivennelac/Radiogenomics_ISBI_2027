@@ -1,0 +1,8 @@
+site,grade_group,IDH-mutant,IDH-wildtype,All
+UCSF,grade 2-3,21,1,22
+UCSF,grade 4,14,25,39
+UPENN,grade 4,5,57,62
+UTSW,grade 2-3,40,0,40
+UTSW,grade 4,12,14,26
+UTSW,unknown,0,1,1
+All,,92,98,190

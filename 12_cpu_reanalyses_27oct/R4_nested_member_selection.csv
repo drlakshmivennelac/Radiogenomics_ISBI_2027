@@ -1,0 +1,3 @@
+selection space,"apparent best (selected and scored on all 1,432)","nested: selected in training folds, scored on held-out (mean over 5 repeats)",nested range over repeats,optimism (apparent - nested),"paper's three (CA42+CA44+MC42), apparent",most often chosen in folds
+any subset of the 7 candidates (127),0.9247,0.9186,0.9139-0.9226,0.0061,0.9239,"{'CA42+CA44+MC42+T1c42': 13, 'CA42+CA44+MC42': 7, 'CA42+MC42+MC43': 2}"
+three-member subsets only (35),0.9239,0.919,0.9133-0.9239,0.0049,0.9239,"{'CA42+CA44+MC42': 20, 'CA42+MC42+T1c42': 3, 'CA42+MC42+MC43': 2}"

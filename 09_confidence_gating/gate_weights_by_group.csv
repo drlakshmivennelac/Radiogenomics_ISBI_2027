@@ -1,0 +1,10 @@
+group,n,mutant,D1 mean w_ML,D1 % patients led by DL (w_ML<0.5),D2 mean w_ML,D2 % led by DL,ML-arm errors / DL-arm errors
+all: all,1393,186,0.5,36.3,0.56,33.9,169 / 195
+grade: grade 4,1185,39,0.5,33.0,0.57,31.9,114 / 147
+grade: grade 2-3,205,147,0.48,55.6,0.51,44.9,55 / 47
+grade: unknown,3,0,0.55,33.3,0.41,66.7,0 / 1
+age: >=55,950,29,0.52,22.1,0.61,22.6,50 / 115
+age: <40,148,97,0.47,59.5,0.55,42.6,42 / 25
+age: 40-54,295,60,0.46,70.5,0.43,65.8,77 / 55
+enhancement: enhancing,1203,75,0.5,33.1,0.57,31.7,115 / 146
+enhancement: non-enhancing,190,111,0.49,56.8,0.51,47.9,54 / 49

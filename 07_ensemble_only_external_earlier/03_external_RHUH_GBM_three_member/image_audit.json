@@ -1,0 +1,402 @@
+[
+  {
+    "patient_id": "RHUH:RHUH-0001",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0002",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0003",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0004",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0005",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0006",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0007",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0008",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0009",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0010",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0011",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0012",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0013",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0014",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0015",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0016",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0017",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0018",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0019",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0020",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0021",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0022",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0023",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0024",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0025",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0026",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0027",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0028",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0029",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0030",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0031",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0032",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0033",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0034",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0035",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0036",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0037",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0038",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0039",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  },
+  {
+    "patient_id": "RHUH:RHUH-0040",
+    "mask_status": "nonempty",
+    "mask_labels": [
+      0.0,
+      1.0,
+      2.0,
+      3.0
+    ]
+  }
+]

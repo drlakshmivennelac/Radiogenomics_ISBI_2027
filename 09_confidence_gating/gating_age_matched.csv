@@ -1,0 +1,8 @@
+strategy,"AUROC, all","AUROC, age-matched"
+A · ML arm (features + age),0.94,0.793 (0.753-0.835)
+B · DL arm (ensemble),0.925,0.897 (0.858-0.928)
+C · Fixed blend,0.954,0.870 (0.833-0.908)
+D1 · Confidence gate (RSNA),0.956,0.884 (0.846-0.921)
+"D2 · Gate, threshold-centred",0.957,0.884 (0.846-0.921)
+E · Stacked,0.958,0.882 (0.844-0.918)
+H · Full hybrid,0.961,0.868 (0.829-0.909)

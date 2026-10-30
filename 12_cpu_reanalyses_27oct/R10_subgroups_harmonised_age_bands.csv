@@ -1,0 +1,6 @@
+age band,n,mutant,Age,Features + age,Ensemble (raw),Ensemble + age,Hybrid,gate D1 mean w_ML,gate D1 % led by ensemble
+<40,148,97,0.552,0.868,0.923,0.92,0.933,0.47,59.5
+40-54,295,60,0.731,0.86,0.889,0.901,0.896,0.46,70.5
+>=55,950,29,0.716,0.882,0.877,0.894,0.919,0.52,22.1
+enhancement: enhancing,1203,75,0.853,0.896,0.879,0.923,0.93,,
+enhancement: non-enhancing,190,111,0.89,0.909,0.879,0.94,0.953,,

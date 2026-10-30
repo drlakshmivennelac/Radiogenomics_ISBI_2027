@@ -1,0 +1,5 @@
+strategy,"error rate, no deferral","error rate, 20% deferred",AURC (50-100% coverage)
+H · Full hybrid,0.085,0.021,0.0239
+D1 · Confidence gate (RSNA),0.08,0.041,0.0422
+"D2 · Gate, threshold-centred",0.098,0.021,0.0278
+B · DL arm (ensemble),0.14,0.081,0.0779

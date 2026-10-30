@@ -1,0 +1,7 @@
+group,n,median age,IQR
+all IDH-mutant,186,38.0,30-48
+matched IDH-mutant,96,48.0,41-57
+unmatched IDH-mutant,90,32.0,27-37
+matched IDH-wildtype,262,49.0,
+matched IDH-mutant that are grade 2-3,76,48.0,
+unmatched IDH-mutant that are grade 2-3,71,32.0,

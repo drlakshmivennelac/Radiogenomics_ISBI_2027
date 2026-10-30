@@ -1,0 +1,4 @@
+patients,n,mutant,reserved included,joint head IDH AUROC,IDH-only head IDH AUROC,IDH-only minus joint (95% CI)
+all v3 patients (as in README),1622,294,199,0.865,0.864,-0.001 (-0.022 to +0.019)
+reserved patients removed,1423,194,0,0.872,0.869,-0.003 (-0.028 to +0.021)
+"the 1,393 analysis patients",1393,186,0,0.87,0.87,+0.000 (-0.024 to +0.025)

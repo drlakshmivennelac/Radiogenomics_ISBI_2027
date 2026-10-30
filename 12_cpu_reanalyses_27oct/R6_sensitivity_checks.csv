@@ -1,0 +1,4 @@
+model,"paper (5x5 stratified CV, site z-scoring on all patients)",folds = the ensemble members' own 5 folds,site z-scoring fitted in training folds only,"change, in-fold z-scoring"
+Hybrid,0.961,0.9601,0.9611,0.0
+Features + age,0.9405,0.939,0.9407,0.0002
+Ensemble + age,0.9551,0.9558,0.9551,0.0

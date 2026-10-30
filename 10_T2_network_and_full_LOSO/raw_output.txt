@@ -1,0 +1,38 @@
+--- T2 network as an extra input (n=1393, 186 mutant)
+Hybrid                         0.961
+Hybrid + T2 network            0.962
+Ensemble                       0.925
+Ensemble + T2 network          0.930
+T2 network (recal.)            0.805
+Features + age                 0.940
+Features + age + T2 network    0.950
+Hybrid + T2 network minus Hybrid: +0.0010 (-0.0021 to +0.0043)
+Ensemble + T2 network minus Ensemble: +0.0052 (-0.0020 to +0.0122)
+Features + age + T2 network minus Features + age: +0.0096 (+0.0016 to +0.0180)
+
+loso cols ['patient_id', 'site', 'idh_label', 'idh_probability', 'mgmt_label', 'mgmt_probability']
+oof cols ['patient_id', 'site', 'idh_label', 'idh_probability', 'idh_logit', 'mgmt_label', 'mgmt_probability', 'mgmt_logit', 'fold']
+
+--- Full-pipeline leave-UCSF-out (test n=433, 68 mutant)
+CA42 alone, in-CV logits on UCSF         0.911
+CA42 alone, retrained without UCSF       0.910
+Features + age   combiner on UTSW+UPENN, UCSF net=ca42_cv  : 0.952
+Features + age   combiner on UTSW+UPENN, UCSF net=ca42_loso: 0.952
+Hybrid (CA42)    combiner on UTSW+UPENN, UCSF net=ca42_cv  : 0.967
+Hybrid (CA42)    combiner on UTSW+UPENN, UCSF net=ca42_loso: 0.966
+CA42 + age       combiner on UTSW+UPENN, UCSF net=ca42_cv  : 0.957
+CA42 + age       combiner on UTSW+UPENN, UCSF net=ca42_loso: 0.954
+hybrid full-LOSO CI [0.945 0.984]
+hybrid - F+A 0.015 [0.001 0.032]
+net LOSO CI [0.872 0.943]
+
+inner oof 1001 {'UTSW': 549, 'UPENN': 452}
+train n 960 with inner oof 960
+LOSO net inner-CV AUROC on UTSW+UPENN 0.852
+Features + age         UCSF AUROC 0.952 (0.927-0.974)
+Hybrid (CA42, clean)   UCSF AUROC 0.962 (0.939-0.982)
+CA42 + age             UCSF AUROC 0.952 (0.923-0.976)
+CA42 recal             UCSF AUROC 0.910 (0.872-0.943)
+hybrid - Features + age: +0.011 (-0.002 to +0.025)
+hybrid - CA42 + age: +0.011 (-0.007 to +0.030)
+hybrid - CA42 recal: +0.052 (+0.024 to +0.084)

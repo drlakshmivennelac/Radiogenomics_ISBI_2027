@@ -1,0 +1,5 @@
+comparison,status,"internal (1,393)",reserved (190),reserved P(diff<=0),reserved grade 4 (127)
+Features + age minus Ensemble (raw),post hoc: does the internal parity of features + age and the ensemble hold?,+0.015 (-0.004 to +0.034),+0.065 (+0.018 to +0.117),0.003,+0.100 (+0.018 to +0.194)
+Ensemble + features minus Features,"post hoc: image information of the network beyond the radiological features, no age",+0.050 (+0.033 to +0.069),+0.046 (+0.015 to +0.080),0.001,+0.099 (+0.037 to +0.171)
+Features + age minus Ensemble + features,"post hoc: age versus the network, both added to the features",+0.007 (-0.009 to +0.024),+0.028 (-0.013 to +0.071),0.083,+0.078 (+0.009 to +0.160)
+Hybrid minus Features + age,pre-declared (as published),+0.020 (+0.011 to +0.031),+0.010 (-0.008 to +0.028),0.137,+0.019 (-0.008 to +0.045)

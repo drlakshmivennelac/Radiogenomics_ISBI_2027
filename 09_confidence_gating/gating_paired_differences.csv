@@ -1,0 +1,8 @@
+comparison,pre-declared,AUROC,AP,Brier,Spec.,F1
+D1 · Confidence gate (RSNA)  minus  A · ML arm (features + age),True,+0.016 (+0.007 to +0.026),+0.066 (+0.034 to +0.102),-0.008 (-0.013 to -0.003),+0.043 (+0.027 to +0.059),+0.094 (+0.058 to +0.129)
+D1 · Confidence gate (RSNA)  minus  H · Full hybrid,True,-0.005 (-0.010 to +0.001),-0.009 (-0.020 to +0.003),+0.004 (+0.001 to +0.006),+0.007 (-0.005 to +0.017),+0.010 (-0.017 to +0.038)
+"D2 · Gate, threshold-centred  minus  D1 · Confidence gate (RSNA)",True,+0.001 (-0.003 to +0.005),-0.007 (-0.028 to +0.010),-0.001 (-0.004 to +0.002),-0.020 (-0.031 to -0.010),-0.039 (-0.065 to -0.013)
+D1 · Confidence gate (RSNA)  minus  B · DL arm (ensemble),False,+0.032 (+0.019 to +0.046),+0.093 (+0.064 to +0.125),-0.013 (-0.018 to -0.008),+0.063 (+0.046 to +0.080),+0.130 (+0.094 to +0.166)
+"D2 · Gate, threshold-centred  minus  H · Full hybrid",False,-0.004 (-0.010 to +0.001),-0.016 (-0.039 to +0.002),+0.003 (-0.000 to +0.005),-0.013 (-0.025 to -0.002),-0.028 (-0.052 to -0.005)
+E · Stacked  minus  H · Full hybrid,False,-0.003 (-0.007 to +0.002),-0.007 (-0.017 to +0.002),+0.001 (-0.000 to +0.003),+0.008 (-0.002 to +0.018),+0.018 (-0.005 to +0.040)
+C · Fixed blend  minus  D1 · Confidence gate (RSNA),False,-0.003 (-0.005 to -0.000),-0.010 (-0.019 to +0.001),+0.001 (-0.000 to +0.003),-0.005 (-0.017 to +0.007),-0.015 (-0.045 to +0.014)

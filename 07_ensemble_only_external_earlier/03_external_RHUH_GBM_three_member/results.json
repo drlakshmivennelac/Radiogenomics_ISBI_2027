@@ -1,0 +1,213 @@
+{
+  "primary_treatment_naive": {
+    "total": 38,
+    "labelled": 38,
+    "unknown_labels": 0,
+    "metrics": {
+      "n": 38,
+      "positive": 4,
+      "negative": 34,
+      "threshold": 0.14600733667612076,
+      "tp": 0,
+      "tn": 33,
+      "fp": 1,
+      "fn": 4,
+      "auroc": 0.5441176470588235,
+      "average_precision": 0.1346200096200096,
+      "sensitivity": 0.0,
+      "specificity": 0.9705882352941176,
+      "precision": 0.0,
+      "npv": 0.8918918918918919,
+      "accuracy": 0.868421052631579,
+      "balanced_accuracy": 0.4852941176470588,
+      "macro_f1": 0.4647887323943662,
+      "brier": 0.09833430191183681,
+      "log_loss": 0.36720351002462265,
+      "positive_f1": 0.0
+    },
+    "exact_binomial_95ci": {
+      "sensitivity": [
+        0.0,
+        0.6023646356164746
+      ],
+      "specificity": [
+        0.8467323304396823,
+        0.9992556357653097
+      ],
+      "precision": [
+        0.0,
+        0.975
+      ]
+    },
+    "conditional_class_stratified_bootstrap_95ci": {
+      "auroc": {
+        "low": 0.32352941176470584,
+        "high": 0.7647058823529411,
+        "valid_replicates": 2000
+      },
+      "average_precision": {
+        "low": 0.1075,
+        "high": 0.29348214285714247,
+        "valid_replicates": 2000
+      },
+      "sensitivity": {
+        "low": 0.0,
+        "high": 0.0,
+        "valid_replicates": 2000
+      },
+      "specificity": {
+        "low": 0.9117647058823529,
+        "high": 1.0,
+        "valid_replicates": 2000
+      },
+      "balanced_accuracy": {
+        "low": 0.45588235294117646,
+        "high": 0.5,
+        "valid_replicates": 2000
+      },
+      "macro_f1": {
+        "low": 0.4492753623188406,
+        "high": 0.4722222222222222,
+        "valid_replicates": 2000
+      },
+      "brier": {
+        "low": 0.09491580245362218,
+        "high": 0.10158757343459135,
+        "valid_replicates": 2000
+      }
+    },
+    "caution": "Very few mutant patients: bootstrap is conditional on observed cases/class counts. Exact binomial intervals supplied for sensitivity/specificity/precision; neither removes selection or population uncertainty."
+  },
+  "secondary_all_preoperative": {
+    "total": 40,
+    "labelled": 40,
+    "unknown_labels": 0,
+    "metrics": {
+      "n": 40,
+      "positive": 4,
+      "negative": 36,
+      "threshold": 0.14600733667612076,
+      "tp": 0,
+      "tn": 35,
+      "fp": 1,
+      "fn": 4,
+      "auroc": 0.5347222222222222,
+      "average_precision": 0.12684386973180076,
+      "sensitivity": 0.0,
+      "specificity": 0.9722222222222222,
+      "precision": 0.0,
+      "npv": 0.8974358974358975,
+      "accuracy": 0.875,
+      "balanced_accuracy": 0.4861111111111111,
+      "macro_f1": 0.4666666666666667,
+      "brier": 0.09358123794641277,
+      "log_loss": 0.3517662620399346,
+      "positive_f1": 0.0
+    },
+    "exact_binomial_95ci": {
+      "sensitivity": [
+        0.0,
+        0.6023646356164746
+      ],
+      "specificity": [
+        0.8547107352531467,
+        0.9992969747940952
+      ],
+      "precision": [
+        0.0,
+        0.975
+      ]
+    },
+    "conditional_class_stratified_bootstrap_95ci": {
+      "auroc": {
+        "low": 0.3055555555555556,
+        "high": 0.763888888888889,
+        "valid_replicates": 2000
+      },
+      "average_precision": {
+        "low": 0.10090543703842524,
+        "high": 0.29166666666666663,
+        "valid_replicates": 2000
+      },
+      "sensitivity": {
+        "low": 0.0,
+        "high": 0.0,
+        "valid_replicates": 2000
+      },
+      "specificity": {
+        "low": 0.9166666666666666,
+        "high": 1.0,
+        "valid_replicates": 2000
+      },
+      "balanced_accuracy": {
+        "low": 0.4583333333333333,
+        "high": 0.5,
+        "valid_replicates": 2000
+      },
+      "macro_f1": {
+        "low": 0.4520547945205479,
+        "high": 0.47368421052631576,
+        "valid_replicates": 2000
+      },
+      "brier": {
+        "low": 0.09020406004680658,
+        "high": 0.0967778882767735,
+        "valid_replicates": 2000
+      }
+    },
+    "caution": "Very few mutant patients: bootstrap is conditional on observed cases/class counts. Exact binomial intervals supplied for sensitivity/specificity/precision; neither removes selection or population uncertainty."
+  },
+  "previously_treated": {
+    "total": 2,
+    "labelled": 2,
+    "unknown_labels": 0,
+    "metrics": {
+      "n": 2,
+      "positive": 0,
+      "negative": 2,
+      "threshold": 0.14600733667612076,
+      "tp": 0,
+      "tn": 2,
+      "fp": 0,
+      "fn": 0,
+      "auroc": null,
+      "average_precision": null,
+      "sensitivity": null,
+      "specificity": 1.0,
+      "precision": null,
+      "npv": 1.0,
+      "accuracy": 1.0,
+      "balanced_accuracy": null,
+      "macro_f1": null,
+      "brier": 0.003273022603355741,
+      "log_loss": 0.058458550330861,
+      "positive_f1": null
+    },
+    "exact_binomial_95ci": {
+      "sensitivity": null,
+      "specificity": [
+        0.15811388300841897,
+        1.0
+      ],
+      "precision": null
+    },
+    "conditional_class_stratified_bootstrap_95ci": {
+      "specificity": {
+        "low": 1.0,
+        "high": 1.0,
+        "valid_replicates": 2000
+      },
+      "brier": {
+        "low": 0.002455482770082007,
+        "high": 0.004090562436629475,
+        "valid_replicates": 2000
+      }
+    },
+    "caution": "Very few mutant patients: bootstrap is conditional on observed cases/class counts. Exact binomial intervals supplied for sensitivity/specificity/precision; neither removes selection or population uncertainty."
+  },
+  "unknown_treatment_history": {
+    "total": 0,
+    "labelled": 0,
+    "metrics": null
+  }
+}
