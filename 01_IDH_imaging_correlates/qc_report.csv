@@ -1,0 +1,4 @@
+site,patients,idh_mutant,with_adc,with_perf,with_mismatch,resampled,median_whole_ml,mask_labels
+UCSF,495,103.0,494,495,494,0,81.746,1 2; 1 2 4; 2; 2 4
+UPENN,508,15.0,442,393,508,0,77.12950000000001,1 2; 1 2 4; 2; 2 4
+UTSW,584,160.0,0,0,581,0,73.5025,1 2; 1 2 3 4; 1 2 4; 2; 2 4; 3 4

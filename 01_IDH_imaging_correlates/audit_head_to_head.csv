@@ -1,0 +1,6 @@
+model,auroc,ci_low,ci_high,n,idh_mutant
+RadGenome ensemble (OOF),0.9258775437661069,,,1396,186
+Features + age (site-stratified CV),0.9363369768061851,,,1396,186
+Features + age + ensemble logit (CV),0.9598507064782724,,,1396,186
+Delta: ensemble - features,-0.010505538523060515,-0.02907391362303385,0.00841742202079455,1396,186
+Delta: combined - ensemble,0.0338927863680796,0.021306762641073587,0.04821492046565352,1396,186
